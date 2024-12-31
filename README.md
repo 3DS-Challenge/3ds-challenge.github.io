@@ -25,6 +25,8 @@ These prototypes target an incredibly early firmware, and as such cannot be emul
 Face Ace (Face Raiders) and Target Shooting (AR Games) became pack-in titles for the Nintendo 3DS, while the rest are demos created specifically for showcasing the 3DS at E3 2010, and have never been seen in full before today.
 The other titles are development tools and samples used during the development of the console, and test various features of the system.
 
+If you'd like to see details about each of the games of this release, see this video by Akfamilyhome: https://www.youtube.com/watch?v=nFZ-Su0mJtA
+
 During the preparation of this release, we have created a spreadsheet documenting all of the 3DS's known E3 2010 demos, which you can find here: https://docs.google.com/spreadsheets/d/1iD3ehrUs9kqwKzfiRq3IdhC1Ktr8nuEQ/view
 
 If you're interested in seeing SVC differences for kernel 0.243.0, the kernel used in Unit 118, there is documentation available here: https://gist.github.com/TuxSH/adb21e0e4e7737ab28197d077ac469a7
